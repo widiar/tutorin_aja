@@ -10,3 +10,4 @@
   Buka yang nomor "#5 Bekerja dengan Git" sama yang no "#8 Git Remote"
 - Buka git bash, gunakan perintah "git pull" sebelum ngedit
 - Kalau sudah selesai pake perintah "git push" untuk upload
+- buat test
